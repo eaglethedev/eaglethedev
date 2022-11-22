@@ -5,7 +5,7 @@
 
 ### Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]: https://www.youtube.com/channel/UCcH0I8FQ_0_ZjILGS0a2-1w
+[youtube]: https://www.youtube.com/channel/UCcH0I8FQ_0_ZjILGS0a2-1w
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 
 
